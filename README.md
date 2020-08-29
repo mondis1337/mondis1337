@@ -1,16 +1,14 @@
-### Hi there 👋
+My Profile
+===========
 
-<!--
-**mondis1337/mondis1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me: idk what to write here
 
-Here are some ideas to get you started:
+------
+Contact: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord - Mondis#2790
+
+Email - spammondis@mysuperemail.fun
+
+------
+![Profile Gif](https://media.discordapp.net/attachments/561669288029585413/749217905442422814/cat.gif)
