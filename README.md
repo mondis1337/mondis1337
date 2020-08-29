@@ -2,7 +2,7 @@ My Profile
 ===========
 About me: idk what to write here
 ------
-Contect: 
+Contact: 
 ------
 Discord - Mondis#2790
 ------
