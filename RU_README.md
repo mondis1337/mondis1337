@@ -10,7 +10,7 @@
 
 Discord - Mondis#2790
 
-Электронная почта - spammondis@mysuperemail.fun
+Электронная почта - (жду)
 
 ------
 ![Profile Gif](https://media.discordapp.net/attachments/561669288029585413/749217905442422814/cat.gif)
