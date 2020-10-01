@@ -1,7 +1,7 @@
 My Profile
 ===========
 
-About me: I live in Russia and it's all for now (Idk what to write here)
+About me: I live in Russia and it's all for now (Idk what to write here).
 
 Languages: Russian, and some English.
 
