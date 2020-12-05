@@ -10,7 +10,7 @@ Contacts:
 
 Discord - Mondis#2790
 
-Email - (waiting)
+Email - admin@mondis.xyz
 
 ------
 
